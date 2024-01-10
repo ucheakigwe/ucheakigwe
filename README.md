@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ucheakigwe
+- 👋 Hi, I’m Uchenna Akigwe
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Data Science and Analytics
 - 💞️ I’m looking to collaborate on ...
